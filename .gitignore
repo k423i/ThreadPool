@@ -1,0 +1,7 @@
+*.out
+
+client
+server
+main
+client.c
+server.c
